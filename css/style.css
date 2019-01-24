@@ -4,7 +4,9 @@ header{
 }
 main{
     border: 3px dotted cornflowerblue;
+    background-color: bisque;
 }
 footer{
     border: 2px dashed rosybrown;
+    background-color: burlywood;
 }
